@@ -1,8 +1,8 @@
-name: TapToDo-LEET.CC
+name: MNetwork-Tap
 main: LEET_CC\TapToDo
 version: 1.0.0
-authors: [Falk, 64FF00]
-api: [1.0.0]
+authors: [SheepDev]
+api: [1.0.0,2.0.0]
 load: POSTWORLD
 commands:
   action:
